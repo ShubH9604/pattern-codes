@@ -1,4 +1,5 @@
 import java.util.*;
+
 //0-1 triangle
 public class Patterns{
     public static void main(String args[]){
