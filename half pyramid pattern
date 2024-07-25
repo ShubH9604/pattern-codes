@@ -1,7 +1,7 @@
 import java.util.*;
 
 //half pyramid
-public class Patterns{
+public class half_pyramid{
     public static void main(String args[]){
         int n = 5;
         
