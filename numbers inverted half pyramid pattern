@@ -1,7 +1,7 @@
 import java.util.*;
 
-//numbers inverted half pyramid
-public class Patterns{
+//numbers_inverted_half_pyramid
+public class numbers_inverted_half_pyramid{
     public static void main(String args[]){
         int n = 5;
         for (int i=1; i<=n; i++){
