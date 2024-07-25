@@ -1,7 +1,7 @@
 import java.util.*;
 
-//inverted pyramid
-public class Patterns{
+//inverted_pyramid
+public class inverted_pyramid{
     public static void main(String args[]){
         int n = 5;
         
