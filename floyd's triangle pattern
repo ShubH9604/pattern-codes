@@ -1,6 +1,6 @@
 import java.util.*;
-//floyd's triangle
-public class Patterns{
+//floydstriangle
+public class floydstriangle{
     public static void main(String args[]){
         int n = 5;
         int number = 1;
